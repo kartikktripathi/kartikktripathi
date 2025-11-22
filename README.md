@@ -1,6 +1,5 @@
 
 [![An image of @kartikktripathi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kartikktripathi)](https://holopin.io/@kartikktripathi)
-I just wanna aura farm :)
 <!--
 **kartikktripathi/kartikktripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
