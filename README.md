@@ -55,7 +55,7 @@
   <a href="https://linkedin.com/in/kartik-tripathi103" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:kartiktripathi103@gmail.com">
+  <a href="https://github.com/kartikktripathi">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
