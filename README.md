@@ -38,7 +38,7 @@
 
 ### Backend & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,git,github" />
+  <img src="https://skillicons.dev/icons?i=nodejs,supabase,git,github" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ## 📚 Currently Learning  
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,react,nodejs,tailwind,figma,go,django" />
+  <img src="https://skillicons.dev/icons?i=cpp,react,nodejs,tailwind,figma,go,django,supabase" />
 </p>
 
 ## 🌐 Connect With Me  
