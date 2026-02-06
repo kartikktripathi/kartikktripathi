@@ -28,17 +28,17 @@
 
 ### Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,go" />
 </p>
 
 ### Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,figma" />
 </p>
 
 ### Backend & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,supabase,git,github" />
+  <img src="https://skillicons.dev/icons?i=nodejs,django,supabase,git,github" />
 </p>
 
 ---
