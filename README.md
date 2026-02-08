@@ -49,6 +49,10 @@
   <img src="https://skillicons.dev/icons?i=cpp,react,nodejs,tailwind,figma,go,django,supabase" />
 </p>
 
+## 👾 Contribution Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kartikktripathi&bg_color=000000&color=bddcff&line=44cffd&point=cdc7ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🌐 Connect With Me  
 
 <p align="left">
