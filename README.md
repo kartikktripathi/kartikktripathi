@@ -46,7 +46,7 @@
 ## 📚 Currently Learning  
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,react,nodejs,tailwind,figma,go,django,supabase" />
+  <img src="https://skillicons.dev/icons?i=cpp,react,nodejs,tailwind,go,django,supabase" />
 </p>
 
 ## 👾 Contribution Graph
