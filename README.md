@@ -65,6 +65,13 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-8lew.vercel.app/api?username=kartikktripathi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
+</p>
+
+---
 
 ## 👀 Profile Views  
 
