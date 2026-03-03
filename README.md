@@ -51,7 +51,7 @@
 
 ## 👾 Contribution Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kartikktripathi&bg_color=000000&color=bddcff&line=44cffd&point=cdc7ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kartikktripathi&bg_color=000000&color=ff8080&line=700000&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🌐 Connect With Me  
 
@@ -68,7 +68,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-8lew.vercel.app/api?username=kartikktripathi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats-8lew.vercel.app/api?username=kartikktripathi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
 </p>
 
 ---
