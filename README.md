@@ -10,7 +10,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Cool+Projects;Contributing+to+Open+Source;Preparing+for+GSoC+2026;Learning+DSA+&+Expanding+Tech+Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=ff0000&center=true&vCenter=true&width=600&lines=Building+Cool+Projects;Contributing+to+Open+Source;Preparing+for+GSoC+2026;Learning+DSA+&+Expanding+Tech+Stack" />
 </p>
 
 ---
