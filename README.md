@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-  Aspiring Software Engineer | Open Source Contributor | Competitive Programmer
+  Full-Stack Developer | Open Source Contributor | Competitive Programmer
 </h3>
 
 <p align="center">
