@@ -28,7 +28,7 @@
 
 ### Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,go" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,go" />
 </p>
 
 ### Frontend  
@@ -38,7 +38,7 @@
 
 ### Backend & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,django,supabase,git,github" />
+  <img src="https://skillicons.dev/icons?i=nodejs,django,supabase,git,github,postman" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ## 📚 Currently Learning  
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,react,nodejs,tailwind,go,django,supabase" />
+  <img src="https://skillicons.dev/icons?i=typescript,cpp,react,nodejs,tailwind,go,django,supabase,postman" />
 </p>
 
 ## 👾 Contribution Graph
