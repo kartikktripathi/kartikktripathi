@@ -81,4 +81,4 @@
 
 ---
 
-⭐️ From [Kartik Tripathi](https://github.com/kartikktripathi)
+From [Kartik Tripathi](https://github.com/kartikktripathi) with ❤️
