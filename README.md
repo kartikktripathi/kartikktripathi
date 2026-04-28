@@ -33,7 +33,7 @@
 
 ### Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind,figma" />
 </p>
 
 ### Backend & Tools  
@@ -46,7 +46,7 @@
 ## 📚 Currently Learning  
 
 <p>
-  <img src="https://skillicons.dev/icons?i=typescript,cpp,react,nodejs,tailwind,go,django,supabase,postman" />
+  <img src="https://skillicons.dev/icons?i=typescript,cpp,react,next,nodejs,tailwind,go,django,supabase,postman" />
 </p>
 
 ## 👾 Contribution Graph
