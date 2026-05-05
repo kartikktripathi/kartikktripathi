@@ -17,7 +17,7 @@
 
 ## 🚀 About Me  
 
-- 🎓 Student & Developer  
+- 🎓 Student, Developer and an Open-Source Contributor
 - 💻 Interested in **Full Stack Development + Open Source**
 - 🎯 Goal: Make 2,000+ legitimate contributions
 - ⚡ Fun fact: I love building projects that look clean & modern, but I don't move on until it's done.
