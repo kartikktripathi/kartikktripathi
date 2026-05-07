@@ -38,7 +38,7 @@
 
 ### Backend & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,django,supabase,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=nodejs,next,django,supabase,git,github,postman" />
 </p>
 
 ---
