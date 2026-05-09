@@ -62,6 +62,9 @@
   <a href="https://github.com/kartikktripathi">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+  <a href="https://instagram.com/kartikktripathi">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 
 ---
 
