@@ -60,10 +60,10 @@
   <a href="https://linkedin.com/in/kartik-tripathi103" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/kartikktripathi target="_blank">
+  <a href="https://github.com/kartikktripathi" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://instagram.com/kartikktripathi target="_blank">
+  <a href="https://instagram.com/kartikktripathi" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 
