@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-  Frontend Developer | Open Source Contributor | Competitive Programmer
+  Front-end Developer | Open Source Contributor | Competitive Programmer
 </h3>
 
 <p align="center">
