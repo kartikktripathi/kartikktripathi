@@ -1,8 +1,8 @@
 
-[![An image of @kartikktripathi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kartikktripathi)](https://holopin.io/@kartikktripathi)
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 <!-- Animated Header -->
 <h1 align="center">
-  Hi 👋, I'm Kartik Tripathi
+  Hi, I'm Kartik Tripathi
 </h1>
 
 <h3 align="center">
@@ -10,22 +10,22 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=44&color=ff0000&center=true&vCenter=true&width=600&lines=Building+Cool+Projects;Contributing+to+Open+Source;Preparing+for+DMP+2026;Learning+DSA+&+Expanding+Tech+Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=44&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Building+Cool+Projects;Contributing+to+Open+Source;Expanding+Tech+Stack" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me  
+## About Me  
 
-- 🎓 Student, Developer and an Open-Source Contributor
-- 💻 Interested in **Full Stack Development + Open Source**
-- 🎧 I listen to a load of music and love watching Formula One.
-- 🎯 Goal: Make 2,000+ legitimate contributions
-- ⚡ Fun fact: I love building projects that look clean & modern, but I don't move on until it's done.
+-  Student, Developer and an Open-Source Contributor
+-  Interested in **Full Stack Development + Open Source**
+-  I listen to a load of music and love watching Formula One.
+-  Goal: Make 2,000+ legitimate contributions
+-  Fun fact: I love building projects that look clean & modern, but I don't move on until it's done.
 
 ---
 
-## 🛠 Tech Stack  
+## Tech Stack  
 
 ### Languages  
 <p>
@@ -44,17 +44,17 @@
 
 ---
 
-## 📚 Currently Learning  
+## Currently Learning  
 
 <p>
   <img src="https://skillicons.dev/icons?i=typescript,cpp,react,next,nodejs,tailwind,go,django,supabase,postman" />
 </p>
 
-## 👾 Contribution Graph
+## Contribution Graph
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kartikktripathi&bg_color=000000&color=ff8080&line=700000&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🌐 Connect With Me  
+## Connect With Me  
 
 <p align="left">
   <a href="https://linkedin.com/in/kartik-tripathi103" target="_blank">
@@ -69,7 +69,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-8lew.vercel.app/api?username=kartikktripathi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
@@ -77,7 +77,7 @@
 
 ---
 
-## 👀 Profile Views  
+## Profile Views  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kartikktripathi&label=Profile%20Views&color=blue&style=for-the-badge" />
