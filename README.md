@@ -39,7 +39,7 @@
 
 ### Backend & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,next,django,supabase,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=nodejs,next,django,supabase,git,github,docker,postman" />
 </p>
 
 ---
@@ -47,7 +47,7 @@
 ## Currently Learning  
 
 <p>
-  <img src="https://skillicons.dev/icons?i=typescript,cpp,react,next,nodejs,tailwind,go,django,supabase,postman" />
+  <img src="https://skillicons.dev/icons?i=typescript,cpp,react,next,nodejs,tailwind,go,django,supabase,postman,docker" />
 </p>
 
 ## Contribution Graph
