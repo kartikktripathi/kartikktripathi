@@ -85,4 +85,4 @@
 
 ---
 
-From [Kartik Tripathi](https://github.com/kartikktripathi) with ❤️
+By [Kartik Tripathi](https://github.com/kartikktripathi)
