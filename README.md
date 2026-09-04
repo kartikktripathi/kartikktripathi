@@ -50,10 +50,6 @@
   <img src="https://skillicons.dev/icons?i=typescript,cpp,react,next,nodejs,tailwind,go,django,supabase,postman,docker" />
 </p>
 
-## Contribution Graph
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kartikktripathi&bg_color=000000&color=e0e0e0&line=6e6e6e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## Connect With Me  
 
 <p align="left">
